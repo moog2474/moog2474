@@ -2,15 +2,12 @@
 # Hi, I'm Munkh-Erdene! 👋
 
 
-## 🛠 Skills
-Javascript, HTML, CSS...
-
+## 🚀 About Me
+I'm a full stack developer...
 
 ## Other Common Github Profile Sections
 
 🧠 I'm currently learning everything...
-
-
 
 
 ## 🔗 Links
@@ -19,13 +16,10 @@ Javascript, HTML, CSS...
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
-## 🚀 About Me
-I'm a full stack developer...
-
 ### Connect with me:
 
 &nbsp;&nbsp;
-<a href="https://www.instagram.com/thebi7guun/">
+<a href="https://www.instagram.com/muug___/">
   <img align="left" alt="Zolboo's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
